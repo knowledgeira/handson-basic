@@ -19,5 +19,5 @@ git branch -M main   --> Move/rename ur default branch to main
 git status
 git remote add origin https://github.com/knowledgeira/handson-basic.git
 git push -u origin main
-git config --global credential.helper store       ---> Store your username and password use helper store
-
+git config --global credential.helper store       ---> Store your username and password use helper stor
+cat ~/.git-cred..
