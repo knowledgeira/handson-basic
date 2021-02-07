@@ -11,7 +11,7 @@ echo "# handson-basic" >> README.md
 echo "First Configuration" > README.md 
 git add README.md 
 git commit -am "First Commit"
-git branch -help
+git branch -help   ->-- for every shortcut
 git branch -M main   --> Move/rename ur default branch to main
 git status
 git remote add origin https://github.com/knowledgeira/handson-basic.git
